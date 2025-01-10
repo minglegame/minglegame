@@ -27,13 +27,25 @@
 
 ## Game Features
 
-- **Customizable Protagonist**: Personalize your character's appearance and attributes
-- **Dynamic Character Interactions**: Engage with evolving character personalities
-- **Progress Tracking**: Monitor achievements and collectibles
-- **Multiple Endings**: Different outcomes based on your choices
-- **Puzzle Elements**: Various minigames and puzzles to solve
-- **Achievement System**: 26 unique achievements to unlock
+### Easy to use
+- ** No Complicated items and strategies ** : Mingle Game is a very simple multiplayer game that doesn't require any complicated items and doesn't require players to develop elaborate strategies. The core goal of the game is to quickly form a small group of people based on the number called.
+- ** Rules are simple to understand ** : After the game starts, all players stand on the central platform, the platform rotates and plays music, then the platform stops, and a number is called out, players need to form the number of people in the specified time group, and enter the surrounding room, otherwise they will be eliminated.
 
+### Emphasis on teamwork
+- ** Multiplayer Interaction and cooperation ** : Players need to communicate and collaborate with others, and quickly gather to form a group that meets the requirements. During the course of the game, players will interact with people from different backgrounds, constantly meet new friends, and test players' social skills and teamwork spirit.
+- ** Form alliances or communicate effectively ** : In order to increase their chances of survival, players can form alliances with others, or coordinate their actions through effective communication to tackle challenges together. For example, in the Mingle Game on Roblox, players can use voice or text chat to quickly coordinate and gather players.
+
+### Challenging and uncertain
+- ** Time pressure and environmental distractions ** : Players have a limited amount of time to complete the formation and enter the room, and the urgency of time will increase the tension and challenge of the game. In addition, various factors in the game environment, such as the rotation of the platform, the stopping of music, etc., can also interfere with the player's reactions and decisions.
+- ** Number changes and strategy adjustments ** : As the game progresses, the number of calls is different in each round, and the number of remaining players is also decreasing, which makes players need to constantly adjust their strategies to adapt to new situations, increasing the uncertainty and challenge of the game.
+
+### Adaptable
+- ** Mingle can end at any time or continue ** : The Mingle Game can end at any time as needed or continue until there are only two players left. This flexibility allows the game to be adapted to different situations and needs.
+- ** Mingle for multiple platforms and Settings ** : In addition to the version that appears in the Netflix series, Mingle Game has been adapted as a Roblox game for different platforms and Settings, such as family gatherings, corporate build-outs, etc.
+
+### Entertaining and interesting
+- ** Intense and stimulating atmosphere ** : The rotating platform, calling, timing and other elements in the game, as well as the rules of failure is eliminated, create a tense and stimulating atmosphere, so that players experience the feeling of racing heart in the process of participation.
+- ** Trigger social interaction and topics ** : Due to the fun and uniqueness of the game, players often share their experiences and feelings after the game, leading to more social interaction and topic discussion, increasing the entertainment and communication of the game.
 
 ![Mingle Game](images/mingle-faq.webp)
 
