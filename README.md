@@ -19,10 +19,10 @@
 ### 🎨 Repeat until they're all joined together.
 ![Mingle Game](images/mingle-pic-3.webp)
 
-### 50 unique playable characters.
-### Playtime of 4 - 10 minutes.
-### Created in 48 hours for the GMTK 2021 Game Jam.
-### Ranked 131 out of 5,800 entries.
+### ⛵ 50 unique playable characters.
+### ⛳  Playtime of 4 - 10 minutes.
+### ⛪ Created in 48 hours for the GMTK 2021 Game Jam.
+### ⚓ Ranked 131 out of 5,800 entries.
 ![Mingle Game](images/mingle-pic-4.webp)
 
 ## Game Features
