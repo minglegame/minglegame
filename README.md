@@ -2,13 +2,13 @@
 
 > Find your perfect match in Mingle Game, a cute puzzle game with 50 characters! Enjoy 4-10 min of fun merging minglers in this charming experience. 
 
-![Mingle Game](https://miside.im/assets/miside-guide.jpeg)
+![Mingle Game](images/mingle-pic-1.webp)
 
 ## About Mingle Game
 
-[MiSide](https://miside.im) is a unique psychological horror adventure game that blends first-person exploration with visual novel elements. Developed by Aihasto, the game tells the story of an ordinary protagonist who mysteriously finds themselves trapped within a mobile simulation game. What begins as seemingly mundane tasks typical of romance games takes a dark turn, leading to an increasingly unsettling journey filled with tension and unpredictability.
+[Mingle Game](https://minglegame.store/) is a unique psychological horror adventure game that blends first-person exploration with visual novel elements. Developed by Aihasto, the game tells the story of an ordinary protagonist who mysteriously finds themselves trapped within a mobile simulation game. What begins as seemingly mundane tasks typical of romance games takes a dark turn, leading to an increasingly unsettling journey filled with tension and unpredictability.
 
-![MiSide Mita Wiki](https://miside.im/assets/mita-wiki.jpeg)
+![Mingle Game](https://miside.im/assets/mita-wiki.jpeg)
 
 ## Key Features of Mingle Game
 
