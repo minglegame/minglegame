@@ -2,39 +2,28 @@
 
 > Find your perfect match in Mingle Game, a cute puzzle game with 50 characters! Enjoy 4-10 min of fun merging minglers in this charming experience. 
 
-![Mingle Game](images/mingle-pic-1.webp)
+![Mingle Game](images/mingle-download-head.webp)
 
 ## About Mingle Game
 
 [Mingle Game](https://minglegame.store/) is a fun and interactive social experience designed to bring people together. Whether you're at a party, a corporate event, or a get-together with friends, Mingle Game offers engaging activities and icebreakers that encourage communication and connection. Perfect for all ages, it fosters teamwork and laughter, making every gathering memorable. Discover the joys of mingling and strengthen your social bonds with Mingle Game.
 
-![Mingle Game](images/mingle-pic-2.webp)
-
 ## Key Features of Mingle Game
 
-### 🎮 Adventure Horror Gameplay
-- Explore dark rooms and environments
-- Interact with objects and search for clues
-- Avoid dangers, including being stalked by unhinged characters
-- Engage with various minigames and puzzles scattered throughout
+### 🎮 Find your perfect match in the crowd.
+![Mingle Game](images/mingle-pic-1.webp)
 
-### 🎭 Rich Storytelling
-- Multiple endings based on your choices
-- Dynamic character interactions, especially with Mita
-- Psychological and supernatural horror elements
-- Choice-driven progression affecting storyline outcomes
+### 🎭 Match and merge minglers.
+![Mingle Game](images/mingle-pic-2.webp)
 
-### 🎨 Unique Visual Style
-- Distinctive art style with 3D graphics
-- Anime-inspired visuals contrasting with horror themes
-- Customizable protagonist appearance
-- Carefully crafted environments
+### 🎨 Repeat until they're all joined together.
+![Mingle Game](images/mingle-pic-3.webp)
 
-### 🎵 Immersive Audio
-- Atmospheric sound design
-- Voice acting support (currently in Russian)
-- Soundtrack transitions from warm melodies to eerie ambient sounds
-- Audio cues enhancing the horror experience
+### 🎵 50 unique playable characters.
+Playtime of 4 - 10 minutes.
+Created in 48 hours for the GMTK 2021 Game Jam.
+Ranked 131 out of 5,800 entries.
+![Mingle Game](images/mingle-pic-4.webp)
 
 ## Game Features
 
