@@ -6,9 +6,9 @@
 
 ## About Mingle Game
 
-[Mingle Game](https://minglegame.store/) is a unique psychological horror adventure game that blends first-person exploration with visual novel elements. Developed by Aihasto, the game tells the story of an ordinary protagonist who mysteriously finds themselves trapped within a mobile simulation game. What begins as seemingly mundane tasks typical of romance games takes a dark turn, leading to an increasingly unsettling journey filled with tension and unpredictability.
+[Mingle Game](https://minglegame.store/) is a fun and interactive social experience designed to bring people together. Whether you're at a party, a corporate event, or a get-together with friends, Mingle Game offers engaging activities and icebreakers that encourage communication and connection. Perfect for all ages, it fosters teamwork and laughter, making every gathering memorable. Discover the joys of mingling and strengthen your social bonds with Mingle Game.
 
-![Mingle Game](https://miside.im/assets/mita-wiki.jpeg)
+![Mingle Game](images/mingle-pic-2.webp)
 
 ## Key Features of Mingle Game
 
@@ -45,15 +45,5 @@
 - **Puzzle Elements**: Various minigames and puzzles to solve
 - **Achievement System**: 26 unique achievements to unlock
 
-## Availability and Guides
 
-MiSide is available on:
-- [Steam](https://store.steampowered.com/app/2527500/MiSide/)
-- [Demo on itch.io](https://aihasto.itch.io/miside)
-
-For guides and community discussions:
-- MiSide: [miside.im](https://miside.im)
-- MiSide Guides: [Walkthrough, Achievements and Endings](https://miside.im/blogentry/)
-- MiSide Characters: [The Mitas](https://miside.im/mita-miside-wiki/)
-
-![MiSide Characters](https://miside.im/assets/mitas-pic.jpeg)
+![Mingle Game](images/mingle-faq.webp)
